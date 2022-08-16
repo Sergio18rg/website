@@ -5,7 +5,7 @@ import { navLinks } from './data/Navbar.data';
 
 function App() {
   return (
-  <Navbar links={navLinks}/>
+  <Navbar links={navLinks} title={'Sergio Riera'}/>
   );
 }
 
