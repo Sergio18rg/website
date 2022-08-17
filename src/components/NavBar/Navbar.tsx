@@ -32,7 +32,7 @@ const Navbar = ({ links, title }: INavbarProps) => {
             </a>
           ))}
         </div>
-      </div>{" "}
+      </div>
       <div className="second-border-bottom"></div>
     </>
   );
