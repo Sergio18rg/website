@@ -1,0 +1,26 @@
+.console {
+  width: 60vw;
+  height: 40vh;
+  margin: 0 auto;
+  border-bottom: 1px solid gray;
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  opacity: .8;
+
+  .console-header {
+    background-color: gray;
+    height: 3vh;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+    padding: 1vh;
+
+  }
+
+  .console-body {
+    color: limegreen;
+
+  }
+}
